@@ -8,7 +8,7 @@ Please install the following: init, mysql2, Dotenv, and Sequelize. To connect to
 ## Usage 
 Demo Link: https://watch.screencastify.com/v/BgtHYYbjBT5aCX53DiRN
 Repo link: https://github.com/annielnguyen/ecommerce-backend
-![InsomniaScreesnht](Assets/insomnia.png)
+![InsomniaScreenshot](Assets/insomnia.png)
 
 ## Questions
 
